@@ -4,3 +4,4 @@ public class App {
     System.out.println("Inventaire : 0 article");
   }
 }
+modif ligne 1
